@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm a Full Stack Web Developer with a passion for building scalable and user-friendly applications.<br><br>🔭I’ve completed a full-stack development curriculum covering modern technologies like JavaScript, TypeScript, Node.js, React, Tailwind, Prisma, MongoDB, PostgreSQL, Docker, Redis, and AWS. I've worked on several projects, including a full-featured Paytm clone.<br><br>🌱Currently, I’m focused on learning more about cloud architecture, serverless deployments, and performance optimization. I enjoy working on both frontend and backend, and love solving real-world problems through code.<br><br>Lets get connected!</p>
+<p align="left">Hi 👋, I'm a Full Stack Web Developer with a passion for building scalable and user-friendly applications.<br><br>🔭I’ve completed a full-stack development curriculum covering modern technologies like JavaScript, TypeScript, Node.js, React, Tailwind, Prisma, MongoDB, PostgreSQL, Docker, and AWS. I've worked on several projects, including a full-featured Paytm clone.<br><br>🌱Currently, I’m focused on learning more about cloud architecture, serverless deployments, and performance optimization. I enjoy working on both frontend and backend, and love solving real-world problems through code.<br><br>Lets get connected!</p>
 
 ###
 
@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developeranil65&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developeranil65&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=developeranil65&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=developeranil65&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=developeranil65&radius=16&theme=redical&area=true&order=5&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
@@ -75,7 +75,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31p4s3dhdz52atpuznsvmf3d3h4u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p4s3dhdz52atpuznsvmf3d3h4u&count=6&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p4s3dhdz52atpuznsvmf3d3h4u&count=4&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
