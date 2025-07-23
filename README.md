@@ -3,8 +3,9 @@
 </div>
 
 ###
-
-<p align="left">Hi 👋, I'm a Full Stack Web Developer with a passion for building scalable and user-friendly applications.<br><br>🔭I’ve completed a full-stack development curriculum covering modern technologies like JavaScript, TypeScript, Node.js, React, Tailwind, Prisma, MongoDB, PostgreSQL, Docker, and AWS. I've worked on several projects, including a full-featured Paytm clone.<br><br>🌱Currently, I’m focused on learning more about cloud architecture, serverless deployments, and performance optimization. I enjoy working on both frontend and backend, and love solving real-world problems through code.<br><br>Lets get connected!</p>
+<div align="center">
+  <p align="center">Hi 👋, I'm a Full Stack Web Developer with a passion for building scalable and user-friendly applications.<br><br>🔭I’ve completed a full-stack development curriculum covering modern technologies like JavaScript, TypeScript, Node.js, React, Tailwind, Prisma, MongoDB, PostgreSQL, Docker, and AWS. I've worked on several projects, including a full-featured Paytm clone.<br><br>🌱Currently, I’m focused on learning more about cloud architecture, serverless deployments, and performance optimization. I enjoy working on both frontend and backend, and love solving real-world problems through code.  <br><br>Lets get connected!</p>
+</div>
 
 ###
 
