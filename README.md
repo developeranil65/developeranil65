@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anil Singh🔥</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;I'm+Anil+Singh.;Full+Stack+Web+Developer" alt="Typing SVG" style="max-width: 100%;">
+</div>
 
 ###
 
@@ -80,3 +82,10 @@
 </div>
 
 ###
+
+###
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+</div>
+
+
